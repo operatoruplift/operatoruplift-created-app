@@ -1,121 +1,92 @@
-# Operator Uplift - Local AI Agent Platform
+# ⚠️ REPOSITORY ARCHIVED - MOVED TO NEW LOCATION
 
-## Overview
+**This repository has been consolidated and is no longer actively maintained.**
 
-Operator Uplift is a cutting-edge local AI agent platform built with **Gemini 3 Pro**, designed to empower users with powerful AI capabilities running directly on their infrastructure.
+## 🔄 New Repository Location
 
-## Features
+All content from this repository has been merged into:
 
-- 🤖 **Powered by Gemini 3 Pro** - Leveraging Google's advanced AI model
-- 🏠 **Local-First Architecture** - Run AI agents on your own infrastructure
-- 🔒 **Privacy-Focused** - Your data stays with you
-- ⚡ **High Performance** - Optimized for speed and efficiency
-- 🔧 **Customizable Agents** - Build and deploy custom AI agents
-- 🌐 **Modern Web Interface** - Intuitive user experience
+### 👉 **[operatoruplift.created.app](https://github.com/operatoruplift/operatoruplift.created.app)**
 
-## Technology Stack
+## What Was Moved?
 
-- **AI Model:** Gemini 3 Pro
-- **Frontend:** Modern JavaScript framework (React/Vue/Next.js)
-- **Backend:** Node.js / Python
-- **Styling:** CSS3 / Tailwind CSS
-- **Deployment:** Cloud-ready with local deployment options
+✅ **All source code** - The complete web application codebase  
+✅ **Documentation** - API docs, deployment guides, and more  
+✅ **Configuration files** - package.json, .env.example, etc.  
+✅ **Styling** - All CSS and design assets  
+✅ **Contribution guidelines** - CONTRIBUTING.md  
+✅ **All commit history** - Preserved in the consolidation commit  
 
-## Project Structure
+## Why the Consolidation?
 
-```
-operatoruplift-created-app/
-├── src/              # Source code
-├── public/           # Static assets
-├── components/       # Reusable UI components
-├── pages/            # Page components
-├── styles/           # CSS/styling files
-├── api/              # API routes and integrations
-├── utils/            # Utility functions
-├── docs/             # Documentation
-└── tests/            # Test files
-```
+On December 29, 2025, we consolidated two repositories to create a unified platform:
+- **operatoruplift.created.app** - Now contains both the UPLIFT Runtime documentation/examples AND the web application
+- **operatoruplift-created-app** - This repository (archived)
 
-## Getting Started
+The unified repository provides:
+- Single source of truth for all Operator Uplift code and documentation
+- Easier maintenance and contribution workflow
+- Complete platform in one location
+- All advanced examples and documentation added on Dec 29, 2025 are preserved
 
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-- Access to Gemini 3 Pro API
-
-### Installation
+## 🚀 Get Started with the Unified Repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/operatoruplift/operatoruplift-created-app.git
+# Clone the consolidated repository
+git clone https://github.com/operatoruplift/operatoruplift.created.app.git
 
-# Navigate to project directory
-cd operatoruplift-created-app
+# Navigate to the project
+cd operatoruplift.created.app
 
 # Install dependencies
 npm install
 
-# Set up environment variables
+# Configure environment
 cp .env.example .env
 
-# Start development server
+# Start development
 npm run dev
 ```
 
-## Configuration
+## 📚 Documentation
 
-Create a `.env` file in the root directory with your configuration:
+Visit the new repository for:
+- [Complete README](https://github.com/operatoruplift/operatoruplift.created.app#readme)
+- [API Documentation](https://github.com/operatoruplift/operatoruplift.created.app/blob/main/docs/API.md)
+- [Deployment Guide](https://github.com/operatoruplift/operatoruplift.created.app/blob/main/docs/DEPLOYMENT.md)
+- [Advanced Examples](https://github.com/operatoruplift/operatoruplift.created.app/tree/main/advanced-examples)
+- [Contributing Guidelines](https://github.com/operatoruplift/operatoruplift.created.app/blob/main/CONTRIBUTING.md)
 
-```env
-GEMINI_API_KEY=your_api_key_here
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-```
+## 🔗 Important Links
 
-## Development
+- **New Repository**: https://github.com/operatoruplift/operatoruplift.created.app
+- **Issues**: https://github.com/operatoruplift/operatoruplift.created.app/issues
+- **Discussions**: https://github.com/operatoruplift/operatoruplift.created.app/discussions
 
-```bash
-# Run development server
-npm run dev
+## ❓ Questions?
 
-# Build for production
-npm run build
-
-# Run tests
-npm test
-
-# Lint code
-npm run lint
-```
-
-## Deployment
-
-The application can be deployed to various platforms:
-
-- **Vercel** (recommended for Next.js)
-- **Netlify**
-- **Self-hosted** on your own infrastructure
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support and questions:
-- 📧 Email: support@operatoruplift.created.app
-- 💬 Community: [Discussions](https://github.com/operatoruplift/operatoruplift-created-app/discussions)
-- 🐛 Issues: [Issue Tracker](https://github.com/operatoruplift/operatoruplift-created-app/issues)
-
-## Acknowledgments
-
-- Built with ❤️ using Gemini 3 Pro
-- Powered by the Operator Uplift team
+If you have any questions about this consolidation or need help finding something:
+1. Visit the [new repository](https://github.com/operatoruplift/operatoruplift.created.app)
+2. Open a [discussion](https://github.com/operatoruplift/operatoruplift.created.app/discussions)
+3. Check the [documentation](https://github.com/operatoruplift/operatoruplift.created.app/tree/main/docs)
 
 ---
 
-**Operator Uplift** - Empowering local AI agents for everyone
+**Thank you for your interest in Operator Uplift!**
+
+Please update your bookmarks and git remotes to point to the new unified repository.
+
+```bash
+# If you have this repo cloned, update your remote:
+git remote set-url origin https://github.com/operatoruplift/operatoruplift.created.app.git
+```
+
+---
+
+## Original Repository Information
+
+This repository was created on December 29, 2025, and contained the web application code for the Operator Uplift platform. It has been successfully merged into the unified repository on the same day, with all content and history preserved.
+
+**Archived Date**: December 29, 2025  
+**Consolidated Into**: [operatoruplift.created.app](https://github.com/operatoruplift/operatoruplift.created.app)  
+**Status**: Read-only archive
